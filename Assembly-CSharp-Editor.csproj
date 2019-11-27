@@ -64,25 +64,25 @@
   <ItemGroup>
     <Compile Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenAnimationInspector.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/UnityHub/2019.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -295,46 +295,46 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="DemiLib">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DemiLib/DemiLib.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DemiLib/DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="DemiEditor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DemiLib/Editor/DemiEditor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DemiLib/Editor/DemiEditor.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTween43">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
     </Reference>
     <Reference Include="DOTween46">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
     </Reference>
     <Reference Include="DOTween50">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenPro">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenProEditor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>F:/Unity191105/Unity2019.1.4f1/2D-UnrealRoad/2D-UnrealRoad/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>F:/Unity191105/UnityFrames/2D-UnrealRoad/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>E:/UnityHub/2019.1.4f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

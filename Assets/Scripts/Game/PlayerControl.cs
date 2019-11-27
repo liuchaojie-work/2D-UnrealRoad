@@ -170,7 +170,6 @@ public class PlayerControl : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(rayDown.position, Vector2.down, 1.0f, platformLayer);
         if (hit.collider != null)
         {
-            Debug.Log("!null");
             if (hit.collider.tag == "Platform")
             {
                 if(lastHitGo != hit.collider.gameObject)
@@ -183,13 +182,9 @@ public class PlayerControl : MonoBehaviour
                     EventCenter.Broadcast(EventType.AddScore);
                     lastHitGo = hit.collider.gameObject;
                 }
-                
-                Debug.Log("true");
                 return true;
             }
-            Debug.Log("!null");
         }
-        Debug.Log("false");
         return false;
     }
     /// <summary>
