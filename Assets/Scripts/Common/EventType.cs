@@ -1,0 +1,19 @@
+﻿public enum EventType
+{
+    ShowGamePanel,
+    DecidePath,
+    AddScore,
+    UpdateScoreText,
+    PlayerMove,
+    AddDiamond,
+    UpdateDiamondText,
+    ShowGameOverPanel,
+    ShowShopPanel,
+    ShowMainPanel,
+    ChangeSkin,
+    Hint,
+    ShowResetPanel,
+    ShowRankPanel,
+    PlayClickAudio,
+    IsMusicOn,
+}

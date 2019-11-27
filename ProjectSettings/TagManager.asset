@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GUI
+  - Platform
+  - Obstacle
+  - PackUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platfrom
+    uniqueID: 2525288063
+    locked: 0
+  - name: PackUp
+    uniqueID: 2674216967
+    locked: 0
+  - name: Player
+    uniqueID: 4291831095
+    locked: 0
+  - name: GUI
+    uniqueID: 1321167191
+    locked: 0
